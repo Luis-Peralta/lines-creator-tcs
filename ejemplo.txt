@@ -1,0 +1,8 @@
+1- En la barra de busqueda borrar todo y escribir 'cmd' y dar enter
+-----------------------------------------------------------------
+
+2- enviar el comando: (ejemplo con 2 campos a enviar)
+-----------------------------------------------------------------
+java -jar creation.jar true 1 10 hello world
+
+java -jar creation.jar false 1 6 hello world
